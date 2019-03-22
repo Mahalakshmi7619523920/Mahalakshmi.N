@@ -1,0 +1,1 @@
+print("\t im abc\t i live in bangalore\t i am studying in cse")
